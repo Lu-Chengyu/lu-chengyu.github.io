@@ -15,7 +15,7 @@ a{
 }
 a:hover{TEXT-DECORATION:underline}
 </style>
-  </head>
+</head>
 
 
 I obtained my Bachelor’s degree from Tongji University in 2021, supervised by [Prof. Wei Tian](https://auto.tongji.edu.cn/info/1176/7060.htm). My current research interests include artificial intelligence, machine learning, computer vision, and image processing, particularly in the domains of Image and Video Restoration and Enhancement and Multi-Modality Scene Understanding.
