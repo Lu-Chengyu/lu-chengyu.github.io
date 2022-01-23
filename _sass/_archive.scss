@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none; /*改过*/
 
     &:hover {
       text-decoration: underline;
