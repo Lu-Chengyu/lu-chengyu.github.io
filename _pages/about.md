@@ -97,12 +97,9 @@ Projects
 
 Honors & Awards
 ------
-- First prize of the 2019 Formula Student Combustion China, 2019
+- First place of the 2019 Formula Student Combustion China, 2019
 - Third place of the 2019 Formula SAE Japan, 2019
 - Tongji Scholarship, 2017
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
