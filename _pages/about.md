@@ -19,6 +19,19 @@ Education Experience
 
 <dl>
               <dt>
+                <img align="left" width="80" height="80" hspace="10" src="/images/USC.jpeg"
+                />
+              </dt>
+              <dt>
+                University of Southern California, Los Angeles, United States
+              </dt>
+              <dd>
+                August 2022 - May 2024
+              </dd>
+              <dd>
+                M.S. in Electrical and Computer Engineering.
+              </dd>
+              <dt>
                 <img align="left" width="80" height="80" hspace="10" src="/images/TJU.jpeg"
                 />
               </dt>
