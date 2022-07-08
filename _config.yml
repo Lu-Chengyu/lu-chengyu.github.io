@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chengyu Lu 陆成禹"
   avatar           : "ChengyuLu.jpg"
-  bio              : "BEng - Tongji University; MS - University of Southern California"
-  location         : "US"
+  bio              : "MS - University of Southern California" # BEng - Tongji University
+  location         : "United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RRPT9iAAAAAJ"
