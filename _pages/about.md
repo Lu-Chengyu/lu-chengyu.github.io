@@ -49,7 +49,7 @@ Education Experience
                 />
               </dt>
               <dt>
-                National Chiao Tung University, Hsinchu, Taiwan
+                National Yang Ming Chiao Tung University, Hsinchu, Taiwan
               </dt>
               <dd>
                 September 2019 - January 2020
