@@ -83,11 +83,11 @@ Projects
                 Lane Detection under Low-illumination Condition by Enhanced Feature Learning
               </dt>
               <dd>
-                Zhao, W., Tian, W.,
+                Wenbo Zhao, Wei Tian,
                 <strong>
-                Lu, C.
+                Chengyu Lu
                 </strong>
-                , and Yu, X.
+                , Xianwang Yu
               </dd>
 <!--               <dd>
                 Arxiv preprint
