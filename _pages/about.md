@@ -80,29 +80,30 @@ Projects
                 />
               </dt>
               <dt>
-                Look into Darkness: A Method for Improving Detection Accuracy under Low Visibility Environment
+                Lane Detection under Low-illumination Condition by Enhanced Feature Learning
               </dt>
               <dd>
+                Zhao, W., Tian, W.,
                 <strong>
-                  Chengyu Lu 
+                Lu, C.
                 </strong>
-                and Wei Tian
+                , and Yu, X.
               </dd>
-              <dd>
+<!--               <dd>
                 Arxiv preprint
-              </dd>
+              </dd> -->
               <dd>
                 <a href="">
                   [Code]
                 </a>
                 ,
-                <a href="">
+                <a href="https://www.sae.org/publications/technical-papers/content/2022-01-7102/">
                   [Paper]
                 </a>
-                ,
+<!--                 ,
                 <a href="">
                   [Project page]
-                </a>
+                </a> -->
               </dd>
             </dl>
 ------
