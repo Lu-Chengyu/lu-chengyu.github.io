@@ -48,11 +48,6 @@ Projects
 Languages & Skills
 ======
 * Python, C/C++, Java, HTML, CSS, JavaScript, Bootstrap, React, MongoDB, MySQL, Django, Node.js, AWS, MATLAB, AutoCAD, SolidWorks, CATIA, Ansys, Adobe InDesign
-<!-- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Courses
 ======
@@ -79,3 +74,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+<br/>
+<br/>
+<br/>
