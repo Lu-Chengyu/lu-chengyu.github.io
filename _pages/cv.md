@@ -16,7 +16,7 @@ Education
 * B.Eng. in Vehicle Engineering, Tongji University (TJU), 2021
 * M.S. in Computer Engineering, University of Southern California (USC), 2024 (expected)
 
-Work Experience
+Experience
 ======
 * Tongji University Institute of Intelligent Vehicles, Research Assistant, Mar 2020–Jul 2021
   * Received 3,000 CNY for the SITP funding through discovering defects of the standard optical model for fog and improving the color performance of the restored image by using the newly derived model
