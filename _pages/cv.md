@@ -25,7 +25,7 @@ Experience
   * Applied for the patent A Lane Detection Method based on Image Enhancement under Low Light Environment and published the paper Lane Detection under Low-illumination Condition by Enhanced Feature Learning on SAE China Event Technical Papers
 
 * Faurecia, ECO Analysis Intern, Aug 2019–Aug 2019
-  * Developed a Python program to evaluate the factory's logistics package solutions and provided more cost-effective solutions, reducing the workload from several hours to about five minutes
+  * Developed a Python program to evaluate the factory's logistics package solutions and provide more cost-effective solutions, reducing the workload from several hours to about five minutes
   * Completed route planning, price forecasting, and feasibility assessment for Milk Run using C++, reducing the cost of transportation by about 10,000 CNY a day
 
 * TJU Racing Team, Leader of Transmission System Group/The Race Car Driver, Sep 2017–Jun 2020
