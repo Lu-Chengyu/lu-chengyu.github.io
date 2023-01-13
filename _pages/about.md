@@ -76,6 +76,40 @@ Projects
 ------
 <dl>
               <dt>
+                <img align="left" width="170" height="160" hspace="10" src="/images/TrojanMap.gif"
+                />
+              </dt>
+              <dt>
+                TrojanMap - A Map Application for USC Students/Faculty
+              </dt>
+              <dd>
+                <strong>
+                Chengyu Lu
+                </strong>
+              </dd>
+<!--               <dd>
+                Arxiv preprint
+              </dd> -->
+              <dd>
+                <a href="">
+                  [Code]
+                </a>
+<!--                 ,
+                <a href="https://www.sae.org/publications/technical-papers/content/2022-01-7102/">
+                  [Paper]
+                </a> -->
+                ,
+                <a href="">
+                  [Project page]
+                </a>
+              </dd>
+            </dl>
+------
+
+Publications
+------
+<dl>
+              <dt>
                 <img align="left" width="170" height="160" hspace="10" src="/images/Graduation Design.gif"
                 />
               </dt>
