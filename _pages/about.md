@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Bachelor’s degree from Tongji University in 2021, supervised by [Prof. Wei Tian](https://auto.tongji.edu.cn/info/1176/7060.htm). My current research interests include artificial intelligence, machine learning, computer vision, and image processing, particularly in the domains of Image and Video Restoration and Enhancement and Multi-Modality Scene Understanding.
+I am a master student at [University of Southern California](https://www.usc.edu/). I obtained my Bachelor’s degree from [Tongji University](https://www.tongji.edu.cn/) in 2021, supervised by [Prof. Wei Tian](https://auto.tongji.edu.cn/info/1176/7060.htm). 
+<!-- My current research interests include artificial intelligence, machine learning, computer vision, and image processing, particularly in the domains of Image and Video Restoration and Enhancement and Multi-Modality Scene Understanding. -->
 
 News
 ------
+- 2022/09 - Attend University of Southern California
 - 2021/07 - Graduate from Tongji University
 
 Education Experience
@@ -29,7 +31,7 @@ Education Experience
                 August 2022 - May 2024
               </dd>
               <dd>
-                M.S. in Electrical and Computer Engineering.
+                M.S. in Computer Engineering.
               </dd>
               <dt>
                 <img align="left" width="80" height="80" hspace="10" src="/images/TJU.jpeg"
@@ -87,17 +89,10 @@ Projects
                 Chengyu Lu
                 </strong>
               </dd>
-<!--               <dd>
-                Arxiv preprint
-              </dd> -->
               <dd>
                 <a href="">
                   [Code]
                 </a>
-<!--                 ,
-                <a href="https://www.sae.org/publications/technical-papers/content/2022-01-7102/">
-                  [Paper]
-                </a> -->
                 ,
                 <a href="">
                   [Project page]
