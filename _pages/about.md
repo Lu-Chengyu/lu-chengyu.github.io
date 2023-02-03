@@ -109,7 +109,7 @@ Projects
                 />
               </dt>
               <dt>
-                Multimedia Codec - an encoding/decoding application for multimedia data
+                Multimedia Codec - An Encoding/Decoding Application for Multimedia Data
               </dt>
               <dd>
                 <strong>
