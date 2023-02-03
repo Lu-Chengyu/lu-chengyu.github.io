@@ -99,7 +99,6 @@ Projects
                 </a> -->
               </dd>
   <br/>
-
   </dl>
 
 ------
@@ -125,6 +124,7 @@ Projects
                   [Project page]
                 </a> -->
               </dd>
+   <br/>
             </dl>
 
 ------
