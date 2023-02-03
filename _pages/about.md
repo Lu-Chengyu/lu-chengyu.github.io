@@ -100,6 +100,7 @@ Projects
               </dd>
 
   </dl>
+<br/>
   ------
   <dl>
               <dt>
@@ -124,6 +125,7 @@ Projects
                 </a> -->
               </dd>
             </dl>
+<br/>
 ------
 
 Publications
