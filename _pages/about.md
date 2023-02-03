@@ -125,7 +125,7 @@ Projects
                   [Project page]
                 </a> -->
               </dd>
-  <br/>
+<!--   <br/> -->
             </dl>
 
 ------
