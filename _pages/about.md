@@ -94,9 +94,31 @@ Projects
                   [Code]
                 </a>
                 ,
-                <a href="">
+<!--                 <a href="">
                   [Project page]
+                </a> -->
+              </dd>
+  
+              <dt>
+                <img align="left" width="170" height="160" hspace="10" src="/images/Huffman Coding.gif"
+                />
+              </dt>
+              <dt>
+                Multimedia Codec - a codec for multimedia data
+              </dt>
+              <dd>
+                <strong>
+                Chengyu Lu
+                </strong>
+              </dd>
+              <dd>
+                <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE669">
+                  [Code]
                 </a>
+                ,
+<!--                 <a href="">
+                  [Project page]
+                </a> -->
               </dd>
             </dl>
 ------
