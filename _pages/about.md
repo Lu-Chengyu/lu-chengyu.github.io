@@ -98,9 +98,10 @@ Projects
                   [Project page]
                 </a> -->
               </dd>
+  <br/>
 
   </dl>
-<br/>
+
 ------
   <dl>
               <dt>
@@ -124,8 +125,9 @@ Projects
                   [Project page]
                 </a> -->
               </dd>
+  <br/>
             </dl>
-<br/>
+
 ------
 
 Publications
