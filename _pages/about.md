@@ -101,7 +101,7 @@ Projects
 
   </dl>
 <br/>
-  ------
+------
   <dl>
               <dt>
                 <img align="left" width="170" height="160" hspace="10" src="/images/Huffman Coding.gif"
