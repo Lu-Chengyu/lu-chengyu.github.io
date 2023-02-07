@@ -78,6 +78,32 @@ Projects
 ------
 <dl>
               <dt>
+                <img align="left" width="170" height="160" hspace="10" src="/images/Little Lemon.png"
+                />
+              </dt>
+              <dt>
+                Little Lemon - A Restaurant Web Application of Meta Back-End Developer
+              </dt>
+              <dd>
+                <strong>
+                Chengyu Lu
+                </strong>
+              </dd>
+              <dd>
+                <a href="https://github.com/Lu-Chengyu/Little-Lemon">
+                  [Code]
+                </a>
+<!--                 ,
+                <a href="">
+                  [Project page]
+                </a> -->
+              </dd>
+  <br/>
+  </dl>
+
+------
+<dl>
+              <dt>
                 <img align="left" width="170" height="160" hspace="10" src="/images/TrojanMap.gif"
                 />
               </dt>
