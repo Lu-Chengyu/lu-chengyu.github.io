@@ -13,6 +13,7 @@ I am a master student at [University of Southern California](https://www.usc.edu
 
 News
 ------
+- 2023/03 - Admitted to the MS Honors Program (< 5% admitted)
 - 2022/09 - Attend University of Southern California
 - 2021/07 - Graduate from Tongji University
 
@@ -28,10 +29,13 @@ Education Experience
                 University of Southern California, Los Angeles, United States
               </dt>
               <dd>
-                August 2022 - May 2024
+                M.S. in Computer Engineering
               </dd>
               <dd>
-                M.S. in Computer Engineering.
+                MS Honors Program (< 5%)
+              </dd>
+              <dd>
+                August 2022 - May 2024
               </dd>
               <dt>
                 <img align="left" width="80" height="80" hspace="10" src="/images/TJU.jpeg"
@@ -41,10 +45,10 @@ Education Experience
                 Tongji University, Shanghai, China
               </dt>
               <dd>
-                September 2016 - July 2021
+                B.E. in Vehicle Engineering (Automobile)
               </dd>
               <dd>
-                B.E. in Vehicle Engineering (Automobile).
+                September 2016 - July 2021
               </dd>
               <dt>
                 <img align="left" width="80" height="80" hspace="10" src="/images/NCTU.jpeg"
@@ -54,10 +58,10 @@ Education Experience
                 National Yang Ming Chiao Tung University, Hsinchu, Taiwan
               </dt>
               <dd>
-                September 2019 - January 2020
+                Exchange
               </dd>
               <dd>
-                Exchange.
+                September 2019 - January 2020
               </dd>
               <dt>
                 <img align="left" width="80" height="80" hspace="10" src="/images/SUFE.jpeg"
@@ -67,10 +71,10 @@ Education Experience
                 Shanghai University of Finance & Economics, Shanghai, China
               </dt>
               <dd>
-                September 2017 - September 2019
+                Minor in Accounting
               </dd>
               <dd>
-                Minor in Accounting.
+                September 2017 - September 2019
               </dd>
             </dl>
 
