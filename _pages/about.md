@@ -29,10 +29,7 @@ Education Experience
                 University of Southern California, Los Angeles, United States
               </dt>
               <dd>
-                M.S. in Computer Engineering
-              </dd>
-              <dd>
-                MS Honors Program (< 5%)
+                M.S. in Computer Engineering | MS Honors Program (< 5%)
               </dd>
               <dd>
                 August 2022 - May 2024
@@ -198,6 +195,7 @@ Publications
 
 Honors & Awards
 ------
+- MS Honors Program, 2023
 - First place of the 2019 Formula Student Combustion China, 2019
 - Third place of the 2019 Formula SAE Japan, 2019
 - Tongji Scholarship, 2017
