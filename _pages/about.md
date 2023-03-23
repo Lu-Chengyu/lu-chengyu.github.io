@@ -48,7 +48,7 @@ Education Experience
                 September 2016 - July 2021
               </dd>
               <dt>
-                <img align="left" width="80" height="80" hspace="10" src="/images/NCTU.jpeg"
+                <img align="left" width="80" height="80" hspace="10" src="/images/NYCU.jpeg"
                 />
               </dt>
               <dt>
