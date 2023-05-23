@@ -94,10 +94,10 @@ Projects
                 <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE547/Project">
                   [Code]
                 </a>
-<!--                 ,
-                <a href="">
+                ,
+                <a href="http://3.13.47.159:3001">
                   [Project page]
-                </a> -->
+                </a>
               </dd>
   <br/>
   </dl>
