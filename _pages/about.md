@@ -83,6 +83,35 @@ Projects
                 />
               </dt>
               <dt>
+                Tennis Player/Match Manage System
+              </dt>
+              <dd>
+                <strong>
+                Chengyu Lu
+                </strong>
+              </dd>
+              <dd>
+                <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE547/hw6">
+                  [Code]
+                </a>
+                <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE547/hw7">
+                  [Code]
+                </a>
+<!--                 ,
+                <a href="">
+                  [Project page]
+                </a> -->
+              </dd>
+  <br/>
+  </dl>
+
+------
+<dl>
+              <dt>
+                <img align="left" width="170" height="160" hspace="10" src="/images/Little Lemon.png"
+                />
+              </dt>
+              <dt>
                 Little Lemon - A Restaurant Web Application of Meta Back-End Developer
               </dt>
               <dd>
