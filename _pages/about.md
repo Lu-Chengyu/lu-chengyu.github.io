@@ -79,7 +79,33 @@ Projects
 ------
 <dl>
               <dt>
-                <img align="left" width="170" height="160" hspace="10" src="/images/Little Lemon.png"
+                <img align="left" width="170" height="160" hspace="10" src="/images/MeetGame.gif"
+                />
+              </dt>
+              <dt>
+                Meet Game
+              </dt>
+              <dd>
+                <strong>
+                Chengyu Lu
+                </strong>
+              </dd>
+              <dd>
+                <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE547/Project">
+                  [Code]
+                </a>
+<!--                 ,
+                <a href="">
+                  [Project page]
+                </a> -->
+              </dd>
+  <br/>
+  </dl>
+
+------
+<dl>
+              <dt>
+                <img align="left" width="170" height="160" hspace="10" src="/images/Tennis.gif"
                 />
               </dt>
               <dt>
