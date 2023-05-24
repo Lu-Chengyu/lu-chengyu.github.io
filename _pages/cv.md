@@ -18,34 +18,35 @@ Education
 
 Languages & Skills
 ======
-* Python, C/C++, Java, HTML, CSS, JavaScript, Bootstrap, React, MongoDB, MySQL, Django, Node.js, AWS, MATLAB, AutoCAD, SolidWorks, CATIA, Ansys, Adobe InDesign
+* Python, C/C++, Java, HTML, CSS, JavaScript, JQuery, Node.js, Bootstrap, React, RESTful, GraphQL, MySQL, MongoDB, Neo4j, Django, JSON, AWS, MATLAB, AutoCAD, SolidWorks, CATIA, Ansys, Adobe InDesign
 
 Professional Experience
 ======
 * Tongji University Institute of Intelligent Vehicles, Research Assistant, Mar 2020–Jul 2021
-  * Received 3,000 CNY for the SITP funding through discovering defects of the standard optical model for fog and improving the color performance of the restored image by using the newly derived model
+  * Conducted research on defects of the standard optical model for fog and improved color performance of restored images through a newly derived model in Python, securing 3000 CNY SITP funding
   * Published the paper Traffic Intersection Re-Identification Using Monocular Camera Sensors on Sensors
-  * Improved F1-measure on CULane dataset by 1.32% through combining image enhancement network with lane detection network to enhance lane detection capability under low visibility environment
+  * Enhanced the lane detection capability of low visibility environments on the CULane dataset by combining an image enhancement network with a lane detection network using PyTorch, ultimately leading to a 1.32% improvement in F1-measure
   * Applied for the patent A Lane Detection Method based on Image Enhancement under Low Light Environment and published the paper Lane Detection under Low-illumination Condition by Enhanced Feature Learning on SAE China Event Technical Papers
 
 * Faurecia, ECO Analysis Intern, Aug 2019–Aug 2019
-  * Developed a Python program to evaluate the factory's logistics package solutions and provide more cost-effective solutions, reducing the workload from several hours to about five minutes
-  * Completed route planning, price forecasting, and feasibility assessment for Milk Run using C++, reducing the cost of transportation by about 10,000 CNY a day
+  * Developed a Python program to evaluate factory logistics package solutions and provided cost-effective solutions, reducing workload from several hours to about five minutes
+  * Completed route planning, price forecasting, and feasibility assessment for Milk Run in C++, reducing the cost of transportation by about 10,000 CNY a day
 
 * TJU Racing Team, Leader of Transmission System Group/The Race Car Driver, Sep 2017–Jun 2020
-  * Led two undergraduate students to model and simulate working state of the chain wheel, half axles, and three-ball pins of TR19, reducing the weight of the car by 100g
+  * Designed carbon fiber half axles for an FSAE car, resulting in a 10kg reduction in vehicle weight, winning the top prize at the 14th May Science and Technology Festival, and securing 10,000 CNY research funding
+  * Utilized CATIA and Ansys to model and simulate the working state of TR19's chain wheel, half axles, and three-ball pins, resulting in a 100g reduction in the weight of the car
   * Contacted the sponsor and funded 1,600 CNY worth of titanium needed for the half axles
   * Won third place in the 2019 Student Formula Japan and the championship in the 2019 Formula Student China
 
 Projects
 ======
-* An Image Processing Application, Jan 2023-Feb 2023
-  * Built a image processing application in C++ and Matlab and implemented various image processing algorithms
+* An Image Processing Application, Jan 2023-Apr 2023
+  * Built an image processing application in C++ and implemented various image processing algorithms
   * Features include image demosaicing, contrast/histogram manipulation, enhancement and filtering, image denoising, edge and boundary detection, digital halftoning, geometric image modification, image warping, morphological processing, shape analysis and retrieval, texture analysis and segmentation, salient point detection and image matching
   * Tested the application code using different kinds of images
 
 * Little Lemon - a restaurant web application of Meta Back-End Developer, Nov 2022–Dec 2022
-  * Used Django to serve static HTML content and connect the back-end to MySQL
+  * Served static HTML content and connected the back-end to MySQL in Django
   * Implemented the menu and table booking APIs using the Django Rest Framework and added user authentication by setting up user registration, login and logout functionality
   * Tested the application code using unit testing and the API endpoints using the Insomnia REST client
 
