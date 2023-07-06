@@ -13,6 +13,9 @@ I am a master student at [University of Southern California](https://www.usc.edu
 
 News
 ------
+- 2023/08 - Start a new position as Grader at EE 669 Multimedia Data Compression
+- 2023/06 - Start a new position as Data Scientist Intern at Bosch Center for Artificial Intelligence
+- 2023/06 - Start a new position as Software Engineer Intern at BoLe Network
 - 2023/03 - Admitted to the MS Honors Program (< 5% admitted)
 - 2022/09 - Attend University of Southern California
 - 2021/07 - Graduate from Tongji University
