@@ -18,15 +18,30 @@ Education
 
 Languages & Skills
 ======
-* Python, C/C++, Java, HTML, CSS, JavaScript, JQuery, Node.js, Bootstrap, React, RESTful, GraphQL, MySQL, MongoDB, Neo4j, Django, JSON, AWS, MATLAB, AutoCAD, SolidWorks, CATIA, Ansys, Adobe InDesign
+* Languages: Java, Python, C/C++
+* Front-end: HTML, CSS, JavaScript, JQuery, Bootstrap, React
+* Back-end: Spring Boot, Node.js, Django
+* Database: MySQL, MongoDB, GraphQL, Neo4j
+* Tools: Git, AWS, MatLab, AutoCAD, SolidWorks, CATIA, Ansys, Adobe InDesign
 
 Professional Experience
 ======
+* BoLe Network, Software Engineer Intern,	Jun 2023-Present 
+  * Participated in back-end development of the BoLe Network Web Application to implement new features (partner posting; authentication with Google and Linkedin) and debugging actions to enhance the functionality with Spring Boot and MySQL
+  * Refactored the front-end code using React according to the development requirements to improve readability, maintainability, and overall performance, and dynamically built, modified, and stylized elements on pages
+  * Deployed the BoLe Network Web Application to Amazon Web Service
+
+* Bosch Center for Artificial Intelligence, Data Scientist Intern, Jun 2023-Aug 2023 
+  * Reduced manual search and annotation costs for lane detection datasets by identifying OOD data
+  * Used SAM to acquire image segmentation outcomes and, based on artificial rules, identify images containing relatively intricate lane line structures
+  * Utilized existing pretrained models to find images with false positive predicted lanes
+  * Analyzed high-dimensional features to locate sparser regions in the datasets
+
 * Tongji University Institute of Intelligent Vehicles, Research Assistant, Mar 2020–Jul 2021
   * Conducted research on defects of the standard optical model for fog and improved color performance of restored images through a newly derived model in Python, securing 3000 CNY SITP funding
   * Published the paper Traffic Intersection Re-Identification Using Monocular Camera Sensors on Sensors
-  * Enhanced the lane detection capability of low visibility environments on the CULane dataset by combining an image enhancement network with a lane detection network using PyTorch, ultimately leading to a 1.32% improvement in F1-measure
-  * Applied for the patent A Lane Detection Method based on Image Enhancement under Low Light Environment and published the paper Lane Detection under Low-illumination Condition by Enhanced Feature Learning on SAE China Event Technical Papers
+  * Designed a universal framework for Lane Detection in Low Light Environment which combines the self-supervised enhancement network (Zero-DCE) with lane detection network (RESA, LSTR) and boosted the F1-measure of multiple lane detectors on the CULane dataset by 1.32%
+  * Applied for the patent A Lane Detection Method based on Image Enhancement under Low Light Environment and published the paper Lane Detection under Low-illumination Condition by Enhanced Feature Learning on 2022 Intelligent and Connected Vehicles Symposium (SAE China Event Technical Papers)
 
 * Faurecia, ECO Analysis Intern, Aug 2019–Aug 2019
   * Developed a Python program to evaluate factory logistics package solutions and provided cost-effective solutions, reducing workload from several hours to about five minutes
@@ -40,6 +55,11 @@ Professional Experience
 
 Projects
 ======
+* Tennis Player/Match Manage System, Apr 2023-Apr 2023
+  * Developed the front-end using HTML, CSS, and JavaScript and connected it to back-end in Node.js with MongoDB, and implemented REST API with Express.js and GraphQL API with express-graphql
+  * Implemented CRUD functionality for matches and players, including user-friendly features such as input validation for creating players/matches, displaying player/match information with periodic statistics updates through polling, and searching player/match data with dynamic filtering of the displayed list
+  * Conducted comprehensive testing of the system code using diverse sets of match and player data
+
 * An Image Processing Application, Jan 2023-Apr 2023
   * Built an image processing application in C++ and implemented various image processing algorithms
   * Features include image demosaicing, contrast/histogram manipulation, enhancement and filtering, image denoising, edge and boundary detection, digital halftoning, geometric image modification, image warping, morphological processing, shape analysis and retrieval, texture analysis and segmentation, salient point detection and image matching
@@ -51,13 +71,11 @@ Projects
   * Tested the application code using unit testing and the API endpoints using the Insomnia REST client
 
 * Trojan Map - a map application for USC students/faculty, Nov 2022–Dec 2022
-  * Built a map application using data structures in C++ and implementing various graph algorithms
-  * Features include auto-completing user input, suggesting possible names for wrong user input, finding the shortest path between given location points using Dijkstra, Bellman-Ford, TSP (including 2-OPT, 3-OPT, genetic algorithm), cycle detection in given area, topological sort and find nearby
+  * Implemented features for users to auto-complete input, get possible names for wrong user input, find the shortest path between given location points using Dijkstra, Bellman-Ford, TSP (including 2-OPT, 3-OPT, genetic algorithm), detect cycle in given area, topological sort and find nearby
   * Visualized the map using Open-CV library
 
 * Multimedia Codec - a codec for multimedia data, Nov 2022–Dec 2022
-  * Built an encoding/decoding application in C++ and implemented various compression algorithms
-  * Features include Shannon-Fano coding, Huffman coding, Adaptive Huffman coding, Lempel-Ziv coding, Arithmetic Coding, QM Coder, Context-based QM coder, Scalar and Vector Quantization, JPEG, MPEG
+  * Implemented features for users to encode and decode multimedia data files using various compression algorithms: Shannon-Fano coding, Huffman coding, Adaptive Huffman coding, Lempel-Ziv coding, Arithmetic Coding, QM Coder, Context-based QM coder, Scalar and Vector Quantization, JPEG, MPEG
   * Tested the application code using different types of multimedia data files
 
 Courses
