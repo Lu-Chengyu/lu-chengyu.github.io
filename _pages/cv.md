@@ -55,6 +55,10 @@ Professional Experience
 
 Projects
 ======
+* Library Management System, Nov 2023
+  * Implemented a multi-server architecture with TCP/UDP protocols in C/C++, enhancing book borrowing processes.
+  * Ensured secure user authentication and efficient management of book inventory through UNIX socket programming.
+
 * Tennis Player/Match Manage System, Apr 2023-Apr 2023
   * Developed the front-end using HTML, CSS, and JavaScript and connected it to back-end in Node.js with MongoDB, and implemented REST API with Express.js and GraphQL API with express-graphql
   * Implemented CRUD functionality for matches and players, including user-friendly features such as input validation for creating players/matches, displaying player/match information with periodic statistics updates through polling, and searching player/match data with dynamic filtering of the displayed list
