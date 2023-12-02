@@ -81,6 +81,33 @@ Projects
       width="170"
       height="160"
       hspace="10"
+      src="/images/Library Management System.jpg"
+    />
+  </dt>
+  <dt>Library Management System</dt>
+  <dd>
+    <strong> Chengyu Lu </strong>
+  </dd>
+  <dd>
+    <a href="https://github.com/Lu-Chengyu/USC-MSEE/tree/main/EE450">
+      [Code]
+    </a>
+    <!--                 ,
+                <a href="http://3.13.47.159:3001">
+                  [Project page]
+                </a> -->
+  </dd>
+  <br />
+</dl>
+
+------
+<dl>
+  <dt>
+    <img
+      align="left"
+      width="170"
+      height="160"
+      hspace="10"
       src="/images/MeetGame.gif"
     />
   </dt>
